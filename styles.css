@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Estilos para la imagen */
+img {
+    display: block;
+    margin: 50px auto;
+    max-width: 100%;
+    height: auto;
+    border: 5px solid #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilos para el contenido principal */
+.content {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilos para la bibliografía */
+.bibliografia {
+    margin-top: 20px;
+    font-size: 14px;
+}
